@@ -90,3 +90,6 @@ https://realpython.com/python-exceptions/
 GeeksforGeeks – Python Program to Check Valid Strings / isalpha()
 https://www.geeksforgeeks.org/python-string-isalpha-application/
 """
+
+# URL repository:
+# https://github.com/Angel-Yahir-Hernandez-Arredondo/Tareas_metodologia.git

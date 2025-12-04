@@ -503,3 +503,6 @@ https://ebac.mx/blog/listas-en-python
 
 https://ellibrodepython.com/diccionarios-en-python
 """
+
+# URL repository:
+# https://github.com/Angel-Yahir-Hernandez-Arredondo/Tareas_metodologia.git

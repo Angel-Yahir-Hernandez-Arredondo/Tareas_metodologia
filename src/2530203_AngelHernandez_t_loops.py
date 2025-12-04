@@ -434,3 +434,6 @@ for i in range(n, 0, -1):
 # https://www.youtube.com/watch?v=w53HiWSZnzU
 # https://www.youtube.com/watch?v=YEWxlbffgxE
 # https://libros.metabiblioteca.org/server/api/core/bitstreams/a567dd25-1e96-4c0f-9b6a-7a844d0eb577/content
+
+# URL repository:
+# https://github.com/Angel-Yahir-Hernandez-Arredondo/Tareas_metodologia.git

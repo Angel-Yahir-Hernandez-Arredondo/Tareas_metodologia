@@ -438,3 +438,6 @@ REFERENCES:
 6) GeeksForGeeks – String Methods in Python
    https://www.geeksforgeeks.org/python-string-methods/
 """
+
+# URL repository:
+# https://github.com/Angel-Yahir-Hernandez-Arredondo/Tareas_metodologia.git

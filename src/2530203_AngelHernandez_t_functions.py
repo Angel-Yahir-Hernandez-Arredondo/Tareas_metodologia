@@ -378,3 +378,6 @@ applications.
 # https://ebac.mx/blog/funciones-de-python
 # https://aprendeconalf.es/docencia/python/manual/funciones/
 # https://aulavirtual.espol.edu.ec/courses/4558/pages/funciones-en-python
+
+# URL repository:
+# https://github.com/Angel-Yahir-Hernandez-Arredondo/Tareas_metodologia.git

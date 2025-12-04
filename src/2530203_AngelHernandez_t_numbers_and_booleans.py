@@ -488,3 +488,6 @@ Think Python (Allen B. Downey).
 Chapter 7–8: Loops, Conditionals, boolean expressions.
 http://greenteapress.com/thinkpython2/thinkpython2.pdf
 """
+
+# URL repository:
+# https://github.com/Angel-Yahir-Hernandez-Arredondo/Tareas_metodologia.git
