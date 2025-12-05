@@ -70,6 +70,18 @@ OUTPUTS (AS PRODUCED BY YOUR CODE)-
 - Listing of all products with all fields printed
 - Total cost after placing an order
 
+VALIDATIONS:
+- The option must be one of the defined options (e.g., 0-5).
+- The item_id cannot be empty after strip().
+- Price and quantity must be valid numbers:
+- Price >= 0.0
+- Quantity >= 0
+- If any validation fails, display "Error: invalid input" and do NOT perform the operation.
+- In CREATE:
+- If the ID already exists, decide on a policy (e.g., do not allow duplicates) and document your choice.
+- In READ/UPDATE/DELETE:
+- If the ID does not exist, display "Item not found".
+
 REALISTIC TEST CASES (BASED ON YOUR PROGRAM BEHAVIOR)
 
 TEST CASE 1 — NORMAL 
